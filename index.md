@@ -1,5 +1,17 @@
-I'm a passionate Web Development student who loves to write code and learn new things about technology.
+# Digna Patel 
 
-[Home]{/markdown-portfolio/}
-[Projects]{projects}
-[Contact]{contact}
+[ABOUT](./index.md)  |  [CONTACT](./contact.md)  |  [PROJECTS](./projects.md)
+
+<img src="./images/Digna_photo.png" alt="Digna's Photo" width="100">
+
+## Welcome to My Portfolio
+
+I'm Digna, a passionate Web Development student who loves to write code and learn new things about technology.
+
+## About my Skills
+
+- HTML
+- CSS
+- Javascript
+- Python
+- C#
