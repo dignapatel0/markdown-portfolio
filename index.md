@@ -2,7 +2,7 @@
 
 [ABOUT](./index.md)  |  [CONTACT](./contact.md)  |  [PROJECTS](./projects.md)
 
-<img src="./images/Digna_Photo.png" alt="Digna's Photo" width="100">
+![Digna Patel](/images/Digna_Photo.png)
 
 ## Welcome to My Portfolio
 
